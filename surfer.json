@@ -1,0 +1,22 @@
+{
+  "name": "Master Shit Browser",
+  "vendor": "Master Shit",
+  "appId": "com.master.shit.browser",
+  "binaryName": "master-shit-browser",
+  "version": {
+    "product": "firefox",
+    "version": "142.0",
+    "candidate": "142.0"
+  },
+  "buildOptions": {
+    "windowsUseSymbolicLinks": false
+  },
+  "addons": {},
+  "brands": {},
+  "license": {
+    "ignoredFiles": [
+      ".*\\.json"
+    ],
+    "licenseType": "MPL-2.0"
+  }
+}
